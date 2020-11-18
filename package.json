@@ -1,0 +1,27 @@
+{
+  "name": "pokemon-fetcher",
+  "version": "1.0.0",
+  "description": "Pokemon Fetcher",
+  "main": "fetch.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbrown87/USSF-js-async-checkpoint.git"
+  },
+  "keywords": [
+    "Pokemon"
+  ],
+  "author": "M-Harp, JonBrown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpbrown87/USSF-js-async-checkpoint/issues"
+  },
+  "homepage": "https://github.com/jpbrown87/USSF-js-async-checkpoint#readme"
+}
